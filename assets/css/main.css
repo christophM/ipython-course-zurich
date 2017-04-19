@@ -2433,7 +2433,7 @@
 
 			.features article .image img {
 				display: block;
-				width: 100%;
+				/*width: 100%;*/
 			}
 
 		.features article .inner {
